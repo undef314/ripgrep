@@ -1,0 +1,22 @@
+name: ripgrep
+version: git
+summary: Line oriented search tool for regex patterns.
+description: |
+  ripgrep is a line oriented search tool that recursively 
+  searches your current directory for a regex pattern while
+  respecting your gitignore rules. 
+  To a first approximation, ripgrep combines the usability 
+  of the Silver Searcher with the raw speed of GNU grep.
+
+grade: devel
+confinement: devmode
+
+apps:
+  ripgrep: 
+    command: ripgrep
+    plugs: [home]
+
+parts:
+  ripgrep:
+    plugin: rust
+    source: https://github.com/BurntSushi/ripgrep.git
