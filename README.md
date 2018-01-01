@@ -1,8 +1,8 @@
+[![](https://img.shields.io/crates/v/ripgrep.svg)](https://crates.io/crates/ripgrep)
 <h1 align="center">
   <br />
   Ripgrep
 </h1>
-[![](https://img.shields.io/crates/v/ripgrep.svg)](https://crates.io/crates/ripgrep)
 
 <p align="center"><b>This is the snap for ripgrep</b>, <i>"A line oriented search tool that recursively searches your directory for a regex pattern"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
 distributions.</p>
