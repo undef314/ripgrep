@@ -24,6 +24,10 @@ distributions.</p>
 
 <p align="center">Published for <img src="http://anything.codes/slack-emoji-for-techies/emoji/tux.png" align="top" width="24" /> with :gift_heart: by Snapcrafters</p>
 
+## Screenshot
+
+<img width="979" alt="ripgrep" src="https://user-images.githubusercontent.com/12631777/34466720-419bb644-ef04-11e7-9f4f-d76e49c02345.png">
+
 ## Remaining tasks
 
 Snapcrafters ([join us](https://forum.snapcraft.io/t/join-snapcrafters/1325)) 
