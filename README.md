@@ -1,9 +1,9 @@
 <h1 align="center">
   <br />
-  Rigrep
+  Ripgrep
 </h1>
 
-<p align="center"><b>This is the snap for rigrep</b>, <i>"A line oriented search tool that recursively searches your directory for a regex pattern"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
+<p align="center"><b>This is the snap for ripgrep</b>, <i>"A line oriented search tool that recursively searches your directory for a regex pattern"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
 distributions.</p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
@@ -14,7 +14,7 @@ distributions.</p>
 
 ## Install
 
-    sudo snap install rigrep --edge
+    sudo snap install rg-ripgrep --edge
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
@@ -33,10 +33,10 @@ upstream so [Project] can authoritatively publish future releases.
 
   - [x] Fork the [Snapcrafters template](https://github.com/snapcrafters/fork-and-rename-me) repository to your own GitHub account.
     - If you have already forked the Snapcrafter template to your account and want to create another snap, you'll need to use GitHub's [Import repository](https://github.com/new/import) feature because you can only fork a repository once.
-  - [ ] Rename the forked Snapcrafters template repository
-  - [ ] Update logos and references to `[Project]` and `[my-snap-name]`
-  - [ ] Create a snap that runs in `devmode`
-  - [ ] Register the snap in the store, **using the preferred upstream name**
+  - [x] Rename the forked Snapcrafters template repository
+  - [x] Update logos and references to `[Project]` and `[my-snap-name]`
+  - [x] Create a snap that runs in `devmode`
+  - [x] Register the snap in the store, **using the preferred upstream name**
   - [ ] Add a screenshot to this `README.md`
   - [ ] Publish the `devmode` snap in the Snap store edge channel
   - [ ] Add install instructions to this `README.md`

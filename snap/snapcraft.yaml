@@ -1,4 +1,4 @@
-name: ripgrep
+name: rg-ripgrep
 version: git
 summary: Line oriented search tool for regex patterns.
 description: |
@@ -12,11 +12,11 @@ grade: devel
 confinement: devmode
 
 apps:
-  ripgrep: 
-    command: ripgrep
+  rg-ripgrep: 
+    command: bin/rg
     plugs: [home]
 
 parts:
-  ripgrep:
+  rg-ripgrep:
     plugin: rust
     source: https://github.com/BurntSushi/ripgrep.git
