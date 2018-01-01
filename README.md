@@ -14,7 +14,7 @@ distributions.</p>
 
 ## Install
 
-    sudo snap install rg-ripgrep --edge
+    sudo snap install rg-ripgrep --edge --devmode
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
