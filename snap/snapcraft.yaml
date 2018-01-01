@@ -1,5 +1,5 @@
 name: rg-ripgrep
-version: git
+version: 0.7.1
 summary: Line oriented search tool for regex patterns.
 description: |
   ripgrep is a line oriented search tool that recursively 
