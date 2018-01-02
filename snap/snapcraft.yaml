@@ -20,3 +20,4 @@ parts:
   rg-ripgrep:
     plugin: rust
     source: https://github.com/BurntSushi/ripgrep.git
+    source-tag: 0.7.1
