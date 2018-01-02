@@ -1,4 +1,3 @@
-[![](https://img.shields.io/crates/v/ripgrep.svg)](https://crates.io/crates/ripgrep)
 <h1 align="center">
   <br />
   Ripgrep
